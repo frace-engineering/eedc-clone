@@ -155,7 +155,7 @@ button:hover{
 .slid-in-image{
     height:70vh;
     background-color: rgba(11, 107, 162, 0.7);
-    background: url('/covid19.PNG')no-repeat center;
+    background: url('./covid19.PNG')no-repeat center;
     background-size: 70vw 55vh;
 }
 .container-bottom{
