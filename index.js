@@ -5,7 +5,7 @@ $(document).ready(function(){
                 $('.about').slideUp('slow')
             });
         });
-    })
+    });
 
     $('#customer').hover(function(){
         $('.customer-information').slideDown('slow', function(){
@@ -13,7 +13,7 @@ $(document).ready(function(){
                 $('.customer-information').slideUp('slow')
             });
         });
-    })
+    });
 
     $('#location').hover(function(){
         $('.locations').slideDown('slow', function(){
@@ -21,7 +21,7 @@ $(document).ready(function(){
                 $('.locations').slideUp('slow')
             });
         });
-    })
+    });
 
     $('#media').hover(function(){
         $('.media').slideDown('slow', function(){
@@ -29,7 +29,7 @@ $(document).ready(function(){
                 $('.media').slideUp('slow')
             });
         });
-    })
+    });
 
     $('#career').hover(function(){
         $('.job-listings').slideDown('slow', function(){
@@ -37,7 +37,7 @@ $(document).ready(function(){
                 $('.job-listings').slideUp('slow')
             });
         });
-    })
+    });
 
     $('#contact').hover(function(){
         $('.contact-us').slideDown('slow', function(){
@@ -45,7 +45,7 @@ $(document).ready(function(){
                 $('.contact-us').slideUp('slow')
             });
         });
-    })
+    });
 
     $('#map').hover(function(){
         $('.meter-request').slideDown('slow', function(){
@@ -53,7 +53,7 @@ $(document).ready(function(){
                 $('.meter-request').slideUp('slow')
             });
         });
-    })
+    });
 
     $('#e-bill').hover(function(){
         $('.e-bill').slideDown('slow', function(){
@@ -61,9 +61,9 @@ $(document).ready(function(){
                 $('.e-bill').slideUp('slow')
             });
         });
-    })
+    });
 
 
 
-})
+});
 
