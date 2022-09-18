@@ -222,7 +222,7 @@ p span{
 }
 .tariff{
     background:url('./tariff.PNG') no-repeat bottom;
-    background-size: 13vw 53vh;
+    background-size: 13vw 40vh;
     background-color: #fff;
 }
 .self-service{
@@ -233,7 +233,7 @@ p span{
 
 .third-party{
     margin:8px 6px;
-    height:10.6em;
+    height:11.6em;
     background:url('./third-party.PNG') no-repeat center;
     background-size: 69vw 30vh;
     background-color: #fff;
@@ -241,7 +241,7 @@ p span{
 
 .customer-service{
     margin:4px 6px;
-    height:10.6em;
+    height:11.6em;
     background:url('./customer.PNG') no-repeat center;
     background-size: 68vw 35vh;
     background-color: #fff;   
@@ -276,7 +276,7 @@ p span{
 .container #send-msg{
     position:fixed;
     bottom:0em;
-    left:900px;
+    right:1em;
     height:3em;
     width:13em;
     text-align:left;
