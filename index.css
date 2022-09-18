@@ -6,7 +6,7 @@
 
 .container{
     background-image: linear-gradient(to top, #1685e8, #ddffed);
-    height:81.1em;
+    height:75em;
     padding-top:20px;
 
 }
@@ -39,7 +39,7 @@ ul li{
 .nav-container{
     display:flex;
     flex-direction: column;
-    height:80vh;
+    height:58vh;
     background-color: #33548b;
 
 }
@@ -131,7 +131,7 @@ button:hover{
     display:none;
     position:absolute;
     z-index:100000;
-    width:16em;
+    width:13em;
     background-color:#33548b;
     box-shadow: 6px 3px #070d17;
     padding-inline-start: 1em;;
@@ -153,10 +153,10 @@ button:hover{
     color:#ffd;
 }
 .slid-in-image{
-    height:70vh;
+    height:56vh;
     background-color: rgba(11, 107, 162, 0.7);
-    background: url('./covid19.PNG')no-repeat center;
-    background-size: 70vw 55vh;
+    background: url('./covid19.PNG')no-repeat top;
+    background-size: 69vw 40vh;
 }
 .container-bottom{
     background-color: #d9d9d9;
@@ -235,7 +235,7 @@ p span{
     margin:8px 6px;
     height:10.6em;
     background:url('./third-party.PNG') no-repeat center;
-    background-size: 68vw 40vh;
+    background-size: 69vw 30vh;
     background-color: #fff;
 }
 
@@ -243,7 +243,7 @@ p span{
     margin:4px 6px;
     height:10.6em;
     background:url('./customer.PNG') no-repeat center;
-    background-size: 68vw 40vh;
+    background-size: 68vw 35vh;
     background-color: #fff;   
 }
 
@@ -274,9 +274,9 @@ p span{
 }
 
 .container #send-msg{
-    position:absolute;
-    top:95.8em;
-    right:1em;
+    position:fixed;
+    bottom:0em;
+    left:900px;
     height:3em;
     width:13em;
     text-align:left;
