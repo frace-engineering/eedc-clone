@@ -7,11 +7,13 @@
 .container{
     background-image: linear-gradient(to top, #1685e8, #ddffed);
     height:81.1em;
+    padding-top:20px;
+
 }
 
 .eedc-container{
     width:71vw;
-    margin: 20px auto;
+    margin: 0px auto;
     height:100vh;
 }
 
@@ -214,17 +216,17 @@ p span{
 }
 
 .calculator{
-    background:url('./calculator.png') no-repeat center;
+    background:url('./calculator.PNG') no-repeat center;
     background-size: 8em;
     background-color: #fff;
 }
 .tariff{
-    background:url('./tariff.png') no-repeat bottom;
+    background:url('./tariff.PNG') no-repeat bottom;
     background-size: 13vw 53vh;
     background-color: #fff;
 }
 .self-service{
-    background:url('./self-service.png') no-repeat bottom;
+    background:url('./self-service.PNG') no-repeat bottom;
     background-size: 8em;
     background-color: #fff;
 }
@@ -232,7 +234,7 @@ p span{
 .third-party{
     margin:8px 6px;
     height:10.6em;
-    background:url('./third-party.png') no-repeat center;
+    background:url('./third-party.PNG') no-repeat center;
     background-size: 68vw 40vh;
     background-color: #fff;
 }
@@ -240,7 +242,7 @@ p span{
 .customer-service{
     margin:4px 6px;
     height:10.6em;
-    background:url('./customer.png') no-repeat center;
+    background:url('./customer.PNG') no-repeat center;
     background-size: 68vw 40vh;
     background-color: #fff;   
 }
