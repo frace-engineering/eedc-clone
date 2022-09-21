@@ -86,6 +86,8 @@ button:hover{
 .home{
     width:7em;
     flex-grow:0;
+    box-shadow: 6px 3px #070d17;
+
 }
 .upper-nav_about{
     width:7em;
