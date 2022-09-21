@@ -4,17 +4,21 @@
     box-sizing: border-box;
 }
 
+body {
+    background-image: linear-gradient(to top, #1685e8, #ddffed);
+    /* padding-bottom: 200px; */
+}
+
 .container{
     background-image: linear-gradient(to top, #1685e8, #ddffed);
-    height:75em;
-    padding-top:20px;
+    /* height:75em; */
 
 }
 
 .eedc-container{
     width:71vw;
     margin: 0px auto;
-    height:100vh;
+    /* height:100vh; */
 }
 
 .logo-container{
